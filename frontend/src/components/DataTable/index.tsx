@@ -13,14 +13,10 @@ const DataTable = () => {
     totalElements: 0,
     totalPages: 0,
   });
-  
+
   const [activePage, setActivePage] = useState(0);
 
   useEffect(() => {
-    showPagination();
-  }, [activePage]);
-
-  const showPagination = () => {
     axios
       .get(`${BASE_URL}/sales?page=${activePage}&size=10&sort=date,desc`)
       .then((response) => {
@@ -29,11 +25,11 @@ const DataTable = () => {
       .catch((error) => {
         console.error(error.message);
       });
-  };
+  }, [activePage]);
 
   const handlePage = (index: number) => {
-    setActivePage(index)
-  }
+    setActivePage(index);
+  };
 
   return (
     <>
