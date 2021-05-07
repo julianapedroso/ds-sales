@@ -3,7 +3,7 @@ const Footer = () => {
     <footer className="footer mt-auto py-3 bg-dark">
       <div className="container">
         <p className="text-light">
-          Aplicação desenvolvida por{" "}
+          Aplicação desenvolvida com ❤️ por{" "}
           <a
             href="https://github.com/julianapedroso"
             target="_blank"
