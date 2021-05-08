@@ -61,7 +61,7 @@ $ cd projeto-sds3
 ```
 ##### Passo 3. Instale as dependências:
 ```bash
-$ yarn add
+$ yarn install
 ```
 ##### Passo 4. Rode o projeto:
 ```bash
