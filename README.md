@@ -24,6 +24,7 @@ https://ds-sales.netlify.app
   - [x] Gráfico de rosca
   - [x] Tabela com as informações de venda por vendedor
   - [x] Paginação dinâmica
+  - [x] Responsividade para mobile e desktop
 
 ### 💻 Tecnologias:
 
@@ -41,7 +42,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - Spring Tool Suit 4
 - Postgresql 12 e pgAdmin
 - Insomnia
-- Netfy
+- Netlify
 - Heroku CLI
 
 ### 🎨 Layout:
