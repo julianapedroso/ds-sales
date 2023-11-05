@@ -1,7 +1,7 @@
 <div align='center'> 
   <h1>DS Sales</h1>
   <p> Aplicação Full Stack desenvolvida na Semana Spring React da DevSuperior.</p>
-  <img src="https://image.flaticon.com/icons/png/512/138/138339.png" width="15%" alt="Gráfico de Rosca"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/3723/3723490.png" width="15%" alt="Gráfico de Rosca"/>
 </div>
 
 <h2 align='center'>
